@@ -40,3 +40,19 @@ Java Script Development Environment Starter Kit
 	- Babel
 	- TypeScript
 	- Elm
+
+7) Bundling
+	- Module Formats
+		- IIFE
+		- Asynchronous Module Definition
+		- CommonJS
+		- Universal Module Definition
+		- ES6 Modules (Use this one)
+	- Bundler
+		- Require JS
+		- Browserify (simple)
+		- Webpack (Comprehensive)
+		- Rollup (Tree-shaking Performance)
+		- JSPM (Runtime loader Package manager)
+
+
