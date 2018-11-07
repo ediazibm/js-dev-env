@@ -55,4 +55,7 @@ Java Script Development Environment Starter Kit
 		- Rollup (Tree-shaking Performance)
 		- JSPM (Runtime loader Package manager)
 
+8) SourceMaps
+Maps code back to the original source
+Part of our build
 
