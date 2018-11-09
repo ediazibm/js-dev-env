@@ -59,3 +59,8 @@ Java Script Development Environment Starter Kit
 Maps code back to the original source
 Part of our build
 
+9) Linting
+	- JSLint
+	- JSHint
+	- ESLint (standard)
+	
