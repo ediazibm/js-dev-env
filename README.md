@@ -128,3 +128,19 @@ Part of our build
       - Circleci
       - Semaphore
       - SnapCI
+11)HTTP Calls
+  - Libraries for making HTTP calls via JS.
+  - Libraries that makes AJAX calls on modern application.
+  - Node
+    - http
+    - request
+  - Browser
+    - XMLHttpRequest
+    - jQuery
+    - Framework-based
+    - Fetch
+  - Node & Browser
+    - isomorphic-fetch
+    - xhr
+    - SuperAgent
+    - Axios (popular)
