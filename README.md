@@ -106,3 +106,25 @@ Part of our build
       - Ofter involves clicking and waiting
       - Slow
       - Run on demand, or in QA
+  - Continuous Integration
+    - When your team commits code is handy to confirm inmediately that the commit works as expected within another machine.
+    - Why CI?
+      - Forgot to commit new file
+      - Forgot to update package.json
+      - Commit does not run cross-platform
+      - Node version conflicts
+      - Bad merge
+      - Did not run tests
+      - Catch mistakes quickly
+    - What does a CI server do?
+      - Run automated build
+      - Run your tests
+      - Check code coverage
+      - Automate deployment
+    - Continuous Integration Servers
+      - Travis
+      - Appveyor
+      - Jenkins(host your CI server on your own)
+      - Circleci
+      - Semaphore
+      - SnapCI
