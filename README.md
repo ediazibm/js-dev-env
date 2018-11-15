@@ -144,3 +144,7 @@ Part of our build
     - xhr
     - SuperAgent
     - Axios (popular)
+  - Why Centralize API Calls?
+    - Configure all calls
+    - Handle preloader logic
+    - Handle errors
