@@ -148,3 +148,29 @@ Part of our build
     - Configure all calls
     - Handle preloader logic
     - Handle errors
+  - Mocking HTTP
+    - Why?
+      - Unit testing
+      - Instant Response
+      - Keep working when services are down
+      - Rapid prototyping
+      - Avoid inter-team bottlenecks
+      - Work offline
+    - How?
+      - Nock for unit test
+      - Static JSON
+      - Create development webserver
+        - api-mock
+        - JSON server
+        - JSON Schema faker
+        - Browsersync
+        - Express, etc.
+    - Process to create a Mock API
+      - Declare our schema:
+        - JSON Schema Faker
+      - Generate Random Data:
+        - faker.js
+        - chance.js
+        - randexp.js
+      - Serve Data via API
+        - JSON Server
