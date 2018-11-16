@@ -190,3 +190,23 @@ Part of our build
     - Shortens varibale and function names
     - Remove comments
     - Remove whitespace and new lines
+14)Production Deployment
+  - Why separate the UI and API?
+    - Simple, low-risk, UI only deploys
+    - Separate concerns
+      - Separate teams
+      - Less to understand
+      - Scale back-end separately
+    - Cheap UI hosting
+    - Serve UI via a content delivery network
+    - Use the API tech you like
+    - Cloud Hosting
+      - Amazon Web Services
+      - Microsoft Azure
+      - Heroku
+      - Firebase
+      - Google CloudPlatform
+      - Netlify (static files)
+      - Surge (static files)
+      - GitHub Pages (static files)
+
