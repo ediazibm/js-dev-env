@@ -174,3 +174,19 @@ Part of our build
         - randexp.js
       - Serve Data via API
         - JSON Server
+12)Project Structure
+  - Why Include a Demo App?
+    - Directory structure and file naming
+    - Framework usage
+    - Testing
+    - Mock API
+    - Automated deployment
+  - Tips
+    - Put JS in .js file
+    - Consider organizing by feature
+    - Extract logic into plain old java script objects "POJOs"
+13)Production Build
+  - Minification (Speeding pageloads and saving bandwith)
+    - Shortens varibale and function names
+    - Remove comments
+    - Remove whitespace and new lines
